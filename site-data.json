@@ -1,0 +1,322 @@
+{
+  "business": {
+    "name": "V & P Handyman Uptown Dallas",
+    "shortName": "V&P Handyman",
+    "tagline": "Expert Repairs & Renovations in Uptown Dallas",
+    "niche": "Handyman",
+    "phone": "(972) 843-9302",
+    "address": "2504 Swiss Ave, Dallas, TX 75204",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8am-6pm, Sat 9am-4pm",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "V & P Handyman Uptown Dallas | Expert Repairs & Renovations | (972) 843-9302",
+    "description": "Reliable handyman services in Uptown Dallas. We handle repairs, installations, and renovations with quality craftsmanship. Call (972) 843-9302 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Trusted Handyman in Uptown Dallas",
+      "headline": "Professional Repairs & Renovations for Your Home",
+      "subheadline": "From minor fixes to major upgrades, our skilled team delivers reliable, high-quality workmanship. Serving Uptown Dallas with pride.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Services"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Quality Craftsmanship",
+        "title": "We Take Pride in Every Job",
+        "body": "Our team treats your home like our own. We use premium materials and proven techniques to ensure lasting results. Whether it's a leaky faucet or a full kitchen remodel, we deliver excellence.",
+        "bullets": [
+          "Licensed and insured for your protection",
+          "Detailed estimates with no hidden fees",
+          "Clean, respectful work ethic"
+        ],
+        "reverse": false,
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Reliable & Professional",
+        "cardBody": "We show up on time, communicate clearly, and leave your space spotless. Your satisfaction is our priority."
+      },
+      {
+        "eyebrow": "Full-Service Handyman",
+        "title": "One Call Does It All",
+        "body": "Why juggle multiple contractors? We handle a wide range of home maintenance and improvement tasks. From plumbing and electrical to carpentry and painting, we've got you covered.",
+        "bullets": [
+          "Interior and exterior repairs",
+          "Fixture installation and assembly",
+          "Drywall repair and painting"
+        ],
+        "reverse": true,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Done Right the First Time",
+        "cardBody": "We stand behind our work with a satisfaction guarantee. If it's not right, we'll make it right."
+      }
+    ],
+    "whyTitle": "Why Uptown Dallas Trusts V&P Handyman",
+    "whyChooseUs": [
+      {
+        "title": "Local Expertise",
+        "description": "We know Uptown Dallas homes inside and out. From historic charm to modern condos, we understand the unique needs of your property."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No surprises. We provide clear, upfront estimates so you know exactly what to expect. Fair rates for top-notch work."
+      },
+      {
+        "title": "Skilled Team",
+        "description": "Our handymen are experienced, background-checked, and trained in multiple trades. You get expert solutions in one visit."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "We listen to your needs and tailor our services to fit your schedule and budget. Your home, your rules."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "V&P fixed a leaky pipe and patched the drywall like it never happened. Fast, fair, and friendly. Highly recommend!",
+        "author": "Laura M.",
+        "role": "Uptown Homeowner"
+      },
+      {
+        "quote": "They installed new ceiling fans and fixed a stubborn door. Professional from start to finish. Will use again.",
+        "author": "Tom R.",
+        "role": "State Thomas Resident"
+      },
+      {
+        "quote": "We hired V&P for a bathroom refresh and they exceeded expectations. Great communication and quality work.",
+        "author": "Angela K.",
+        "role": "West Village Condo Owner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call us or book online for a free estimate. We'll take care of the rest.",
+      "primaryCta": "Call (972) 843-9302",
+      "secondaryCta": "Book Online"
+    }
+  },
+  "servicesPage": {
+    "intro": "At V&P Handyman Uptown Dallas, we offer a full range of home repair and improvement services. Whether it's a small fix or a large project, our skilled team delivers quality results. Explore our services below and see how we can help."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "General Repairs & Maintenance",
+      "shortDescription": "Keep your home in top shape with our comprehensive repair services.",
+      "longDescription": "From squeaky doors to cracked tiles, we handle all those nagging repairs that can pile up. Our team quickly diagnoses issues and provides lasting fixes. We also offer routine maintenance plans to keep your home running smoothly year-round.",
+      "benefits": [
+        "Extends the life of your home's components",
+        "Prevents small issues from becoming costly problems",
+        "Saves you time and hassle with one trusted provider"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We assess the issue and identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "Using quality materials, we fix the problem efficiently."
+        },
+        {
+          "title": "Follow-Up",
+          "description": "We ensure everything works perfectly and clean up thoroughly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer emergency repair services?",
+          "answer": "Yes, we provide priority scheduling for urgent repairs. Call us for same-day service when available."
+        },
+        {
+          "question": "What areas do you cover?",
+          "answer": "We primarily serve Uptown Dallas and surrounding neighborhoods. Contact us to confirm availability."
+        }
+      ],
+      "slug": "general-repairs-maintenance"
+    },
+    {
+      "icon": "02",
+      "title": "Plumbing Services",
+      "shortDescription": "Expert plumbing repairs and installations for your home.",
+      "longDescription": "Leaky faucets, clogged drains, running toilets — we fix them all. Our plumbers are skilled in both repairs and new installations. We use modern tools and techniques to ensure efficient, long-lasting solutions.",
+      "benefits": [
+        "Reduces water waste and lowers utility bills",
+        "Prevents water damage and mold growth",
+        "Improves water pressure and fixture performance"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We locate the source of the problem using advanced detection methods."
+        },
+        {
+          "title": "Solution",
+          "description": "We perform the repair or replacement with precision."
+        },
+        {
+          "title": "Testing",
+          "description": "We test everything to ensure no leaks and proper function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install new fixtures?",
+          "answer": "Absolutely. We install faucets, sinks, toilets, and more. We'll help you choose quality options that fit your style and budget."
+        },
+        {
+          "question": "Do you handle pipe repairs behind walls?",
+          "answer": "Yes, we can access and repair hidden pipes with minimal disruption. We patch walls afterward to restore your home."
+        }
+      ],
+      "slug": "plumbing-services"
+    },
+    {
+      "icon": "03",
+      "title": "Electrical Services",
+      "shortDescription": "Safe and reliable electrical repairs and installations.",
+      "longDescription": "From outlet replacements to light fixture installations, our electricians handle a wide range of residential electrical needs. We prioritize safety and code compliance in every job. Whether you need a simple switch upgrade or new wiring for a room addition, we've got you covered.",
+      "benefits": [
+        "Ensures your home meets safety standards",
+        "Improves energy efficiency with modern fixtures",
+        "Adds convenience with smart home upgrades"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your electrical needs and identify any hazards."
+        },
+        {
+          "title": "Installation/Repair",
+          "description": "We perform the work using quality components and proper techniques."
+        },
+        {
+          "title": "Safety Check",
+          "description": "We test circuits and ensure everything operates safely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install ceiling fans?",
+          "answer": "Yes, we install ceiling fans of all types, including those with lights and remote controls."
+        },
+        {
+          "question": "Do you handle panel upgrades?",
+          "answer": "We can upgrade electrical panels to increase capacity and improve safety. This is common in older Uptown homes."
+        }
+      ],
+      "slug": "electrical-services"
+    },
+    {
+      "icon": "04",
+      "title": "Carpentry & Painting",
+      "shortDescription": "Custom carpentry and professional painting to transform your space.",
+      "longDescription": "Add value and beauty to your home with our carpentry and painting services. We build custom shelves, repair trim, hang doors, and paint interiors and exteriors. Our attention to detail ensures a flawless finish every time.",
+      "benefits": [
+        "Enhances your home's aesthetics and functionality",
+        "Increases property value with quality improvements",
+        "Protects surfaces from wear and weather"
+      ],
+      "process": [
+        {
+          "title": "Design & Prep",
+          "description": "We discuss your vision, take measurements, and prepare the area."
+        },
+        {
+          "title": "Crafting/Application",
+          "description": "We build or paint with precision, using premium materials."
+        },
+        {
+          "title": "Finishing Touches",
+          "description": "We sand, seal, and detail for a polished result."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing paint colors?",
+          "answer": "Yes, we use color matching technology to blend seamlessly with your current walls."
+        },
+        {
+          "question": "Do you build custom storage solutions?",
+          "answer": "Absolutely. We design and build custom shelving, cabinets, and closets to maximize your space."
+        }
+      ],
+      "slug": "carpentry-painting"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Handyman in Uptown Dallas",
+    "mission": "To provide Uptown Dallas homeowners with reliable, high-quality handyman services that make home maintenance easy and stress-free.",
+    "story": [
+      "V & P Handyman Uptown Dallas was founded with a simple mission: deliver honest, skilled craftsmanship to our neighbors. With over 15 years of combined experience, our team has grown from fixing small repairs to handling full-scale renovations. We take pride in being the go-to handyman for Uptown residents who value quality and reliability.",
+      "Every project, big or small, receives the same level of care and attention. We believe in building lasting relationships through transparency, fair pricing, and exceptional work. When you hire V&P, you're not just getting a handyman — you're getting a partner who cares about your home as much as you do."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Happy Customers Served"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say, and we say what we do. Honest estimates, no shortcuts."
+      },
+      {
+        "title": "Quality",
+        "description": "We use the best materials and techniques to ensure lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and time with the utmost respect. Clean, punctual, and polite."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve Uptown Dallas and give back to the neighborhood that supports us."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call or fill out the form below. We'll respond within 24 hours.",
+    "primaryCta": "Call (972) 843-9302",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Uptown Dallas",
+      "State Thomas",
+      "West Village",
+      "Turtle Creek",
+      "Oak Lawn",
+      "Knox-Henderson"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Handyman",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9728439302",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
